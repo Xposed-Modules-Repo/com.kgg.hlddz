@@ -7,6 +7,8 @@
 
 # 更新日志
 
+2023.02.21&nbsp;&nbsp;&nbsp;&nbsp;v1.0.2&nbsp;&nbsp;&nbsp;&nbsp;解决某些广告跳过后不会自动领取奖励的问题
+
 2023.02.20&nbsp;&nbsp;&nbsp;&nbsp;v1.0.1&nbsp;&nbsp;&nbsp;&nbsp;广告视频静音，缩短广告页面展示时长
 
 2023.02.17&nbsp;&nbsp;&nbsp;&nbsp;v1.0.0&nbsp;&nbsp;&nbsp;&nbsp;发布第一个版本
