@@ -7,6 +7,9 @@
 
 # 更新日志
 
+2023.03.02&nbsp;&nbsp;&nbsp;&nbsp;v1.0.3&nbsp;&nbsp;&nbsp;&nbsp;解决小于15秒的广告跳过后不会自动领取奖励的问题；
+新增自动跳过竖屏广告的功能
+
 2023.02.21&nbsp;&nbsp;&nbsp;&nbsp;v1.0.2&nbsp;&nbsp;&nbsp;&nbsp;解决某些广告跳过后不会自动领取奖励的问题
 
 2023.02.20&nbsp;&nbsp;&nbsp;&nbsp;v1.0.1&nbsp;&nbsp;&nbsp;&nbsp;广告视频静音，缩短广告页面展示时长
@@ -16,5 +19,9 @@
 # Buy me a beer
 
 如果您觉得好用，请给个打赏，谢谢！
+
+![](https://gitee.com/guangzishushu/image_hosting/raw/master/pictures/mm_reward.png)
+
+
 
 ![](https://gitee.com/guangzishushu/image_hosting/raw/master/pictures/alipay.jpg)
