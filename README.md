@@ -7,6 +7,8 @@
 
 # 更新日志
 
+2023.11.11&nbsp;&nbsp;&nbsp;&nbsp;v1.0.6&nbsp;&nbsp;&nbsp;&nbsp;解决必须手动点击的5秒广告不会自动跳过的问题
+
 2023.11.11&nbsp;&nbsp;&nbsp;&nbsp;v1.0.6&nbsp;&nbsp;&nbsp;&nbsp;适配欢乐斗地主8.024.016版本
 
 2023.07.09&nbsp;&nbsp;&nbsp;&nbsp;v1.0.5&nbsp;&nbsp;&nbsp;&nbsp;适配欢乐斗地主8.021.016版本
