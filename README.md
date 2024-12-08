@@ -7,22 +7,11 @@
 
 # 更新日志
 
+2024.12.09&nbsp;&nbsp;&nbsp;&nbsp;v1.0.6&nbsp;&nbsp;&nbsp;&nbsp;适配欢乐斗地主8.032.016版本
+
 2023.11.17&nbsp;&nbsp;&nbsp;&nbsp;v1.0.7&nbsp;&nbsp;&nbsp;&nbsp;解决必须手动点击的5秒广告不会自动跳过的问题
 
 2023.11.11&nbsp;&nbsp;&nbsp;&nbsp;v1.0.6&nbsp;&nbsp;&nbsp;&nbsp;适配欢乐斗地主8.024.016版本
-
-2023.07.09&nbsp;&nbsp;&nbsp;&nbsp;v1.0.5&nbsp;&nbsp;&nbsp;&nbsp;适配欢乐斗地主8.021.016版本
-
-2023.04.19&nbsp;&nbsp;&nbsp;&nbsp;v1.0.4&nbsp;&nbsp;&nbsp;&nbsp;适配欢乐斗地主8.019.018版本
-
-2023.03.02&nbsp;&nbsp;&nbsp;&nbsp;v1.0.3&nbsp;&nbsp;&nbsp;&nbsp;解决小于15秒的广告跳过后不会自动领取奖励的问题；
-新增自动跳过竖屏广告的功能
-
-2023.02.21&nbsp;&nbsp;&nbsp;&nbsp;v1.0.2&nbsp;&nbsp;&nbsp;&nbsp;解决某些广告跳过后不会自动领取奖励的问题
-
-2023.02.20&nbsp;&nbsp;&nbsp;&nbsp;v1.0.1&nbsp;&nbsp;&nbsp;&nbsp;广告视频静音，缩短广告页面展示时长
-
-2023.02.17&nbsp;&nbsp;&nbsp;&nbsp;v1.0.0&nbsp;&nbsp;&nbsp;&nbsp;发布第一个版本
 
 # Buy me a beer
 
