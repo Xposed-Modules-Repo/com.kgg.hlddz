@@ -9,9 +9,9 @@
 
 # 更新日志
 
-2025.02.24&nbsp;&nbsp;&nbsp;&nbsp;v1.0.9&nbsp;&nbsp;&nbsp;&nbsp;适配欢乐斗地主8.033.016版本
+2025.03.20&nbsp;&nbsp;&nbsp;&nbsp;v1.0.10&nbsp;&nbsp;&nbsp;&nbsp;适配欢乐斗地主8.035.016版本
 
-2024.12.09&nbsp;&nbsp;&nbsp;&nbsp;v1.0.8&nbsp;&nbsp;&nbsp;&nbsp;适配欢乐斗地主8.032.016版本
+2025.02.24&nbsp;&nbsp;&nbsp;&nbsp;v1.0.9&nbsp;&nbsp;&nbsp;&nbsp;适配欢乐斗地主8.033.016版本
 
 # Buy me a beer
 
